@@ -237,4 +237,4 @@ This repository serves as the official landing page for Little Fighter. The soft
 **Get the most recent version of Little Fighter today!**
 
 ---
-**Last updated:** 2026-09-12 16:02:09 UTC
+**Last updated:** 2026-09-12 18:59:09 UTC
